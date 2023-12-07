@@ -64,3 +64,6 @@ Developed as the culmination of the evening programming course by Unicorn a.s., 
 - [Material-UI (MUI)](https://v4.mui.com/)
 - [Fontsource (Roboto)](https://fontsource.org/)
 - [MUI Icons](https://v4.mui.com/)
+
+![img](https://github.com/VelikanovDev/Shopping-List-App/assets/125138065/88fa7654-8375-4643-b67b-4e5a0e06a6a7)
+
